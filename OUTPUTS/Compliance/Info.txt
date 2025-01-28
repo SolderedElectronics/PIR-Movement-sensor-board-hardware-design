@@ -1,5 +1,5 @@
 SKU: 333083
 Full product name: PIR Movement sensor board
 Country of origin: Croatia
-HS tariff code: 90318000
+HS tariff code: 85340090
 EAN/UPC barcode: 732388669608
